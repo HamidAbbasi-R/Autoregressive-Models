@@ -1,4 +1,3 @@
-```markdown
 # Autoregressive (AR) Time Series Simulation and Forecasting
 
 This project demonstrates the synthesis, estimation, and forecasting of autoregressive (AR) time series. It includes tools for generating stationary AR processes, estimating model parameters, and evaluating forecast quality.
