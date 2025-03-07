@@ -1,4 +1,7 @@
 # Autoregressive (AR) Time Series Simulation and Forecasting
+You can access this app on streamlit servers by clicking on the link below:
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hamidabbasi-r-autoregressive-models-main-uaried.streamlit.app/)
 
 This project demonstrates the synthesis, estimation, and forecasting of autoregressive (AR) time series. It includes tools for generating stationary AR processes, estimating model parameters, and evaluating forecast quality.
 
@@ -6,7 +9,6 @@ This project demonstrates the synthesis, estimation, and forecasting of autoregr
 - **AR Process Simulation**: Generate synthetic time series data using AR models.
 - **Parameter Estimation**: Estimate AR coefficients from simulated or real data.
 - **Forecasting**: Perform multi-step forecasts with confidence intervals.
-- **Evaluation Metrics**: Quantify forecast accuracy using metrics like MAE, RMSE, and coverage probability.
 
 ## Requirements
 - Python 3.x
