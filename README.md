@@ -26,3 +26,13 @@ This project demonstrates the synthesis, estimation, and forecasting of autoregr
    ```bash
    streamlit run main.py
    ```
+## Examples
+
+### Figure 1: Roots of the AR Characteristic Polynomial
+![roots](imgs/roots.png)
+
+### Figure 2: Time Series Simulation with Forecasting Results
+![Figure 2 Placeholder](imgs/time_series.png)
+
+### Figure 3: Comparison of Forecasted vs Actual Values
+![Figure 3 Placeholder](imgs/forecast_true.png)
