@@ -11,7 +11,7 @@ This project demonstrates the synthesis, estimation, and forecasting of autoregr
 
 ## Requirements
 - Python 3.x
-- Libraries: `numpy`, `matplotlib`, `streamlit` (for visualization)
+- Libraries: `numpy`, `scipy`, `plotly`, `matplotlib`, `streamlit`
 
 ## Usage
 1. Clone the repository:
